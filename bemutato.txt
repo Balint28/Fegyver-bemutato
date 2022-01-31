@@ -1,6 +1,7 @@
-Balogh Tamás
-Csernyik Bálint
-Farkas Zsombor
-Tóth Balázs
+Csapattagok:
+	Balogh Tamás
+	Csernyik Bálint
+	Farkas Zsombor
+	Tóth Balázs
 
 Fegyver bemutató oldal
