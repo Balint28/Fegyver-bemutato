@@ -1,0 +1,112 @@
+M1911
+Műszaki adatok
+Űrméret	11,430 mm
+Lőszer	.45 ACP
+Tárkapacitás	7 db .45 ACP töltény
+Működési elv	egyszeres feszítésű, félautomata, egylövetű
+Tömeg	1,130 kg
+Fegyver hossza	219 mm
+Csőhossz	128 mm
+Csőtorkolati sebesség	253 m/s
+Pontos lőtávolság	62 m
+
+M1917 revolver
+Műszaki adatok
+Űrméret	11,430 mm
+Lőszer	.45 ACP
+Tárkapacitás	6
+Működési elv	Kifordítható dobos, félhold alakú acéltárcsával. Passzív ütőszeges biztosítás
+Tömeg	1132 g kg
+Fegyver hossza	273 mm mm
+Csőhossz	140 mm mm
+Csőtorkolati sebesség	231,7 m/s
+Irányzék típusa	nyílt, penge a cső elején
+
+AK–47
+Műszaki adatok
+Űrméret	7,62 mm
+Lőszer	7,62×39 mm
+Tárkapacitás	30 töltényes szekrénytár
+Működési elv	gázelvételes, hosszú gázdugattyú-hátrasiklásos, forgózáras reteszelésű
+Tömeg	3,6 kg tár nélkül
+töltött tárral 4,1 kg
+Fegyver hossza	870 mm
+Csőhossz	415 mm
+Elméleti tűzgyorsaság	600 lövés/perc
+Gyakorlati tűzgyorsaság	40 (egyes lövésnél) - 100 (sorozatlövésnél) lövés/perc
+Csőtorkolati sebesség	715 m/s
+
+
+G11
+Műszaki adatok
+Tömeg	
+3,65 kg (8,0 font) üres, 4,3 kg (9,5 font) 90 töltény (G11K3)
+Hosszúság	750 mm (30 hüvelyk)
+Hordó hossza	540 mm (21 hüvelyk) (a kamrát nem számítva, csavarásonként 155 mm)
+Patron	
+4.73×33mm-es tok nélküli lőszer (DM11): G11 K2, LMG11
+4,7 mm, 4,3 mm, 4,9 mm más G11 prototípusokhoz
+4,92x34mm[1]
+4.73×25mm tok nélküli: NBW
+Akció	Gázüzemű, forgó farfekvéses (G11 sorozathoz)
+Tűzsebesség	
+460 forduló/perc (teljes automatikus) [2]
+2100 forduló/perc (3 körös sorozat) [2]
+Lövedék kezdősebessége	C. 930 m/s (3100 ft/s)
+Hatékony tüzelési tartomány	400 m
+
+SPAS-12
+Műszaki adatok
+Tömeg	
+4,4 kg
+Hosszúság	
+1041 mm(41 hüvelyk) állomány meghosszabbítva
+820 mm-es (32,5 hüvelyk) készlet hajtogatott
+Hordó hossza	
+18",19-7/8",21-1/2",24"
+Patron	csak 12 nyomtávú 23⁄4 hüvelykes héj
+Akció	Szivattyú-akció/gázüzemeltetés
+Tűzsebesség	Félautomata vagy szivattyús működés
+Hatékony tüzelési tartomány	A felhasznált lőszertől függ
+Adagolórendszer	Csőhosszabbítás 5+1, 6+1, 7+1 és 8+1 forduló, belső csőmagazin
+
+MP5
+Műszaki adatok
+Űrméret	9 mm
+Lőszer	9×19 mm Parabellum
+Tárkapacitás	15 vagy 30 db
+Működési elv	görgőkkel késleltetett tömegzár
+Tömeg	2.54 (5.6 lb) kg
+Fegyver hossza	260 (10.2 in) mm
+Csőhossz	225 mm
+Elméleti tűzgyorsaság	800 lövés/perc
+Csőtorkolati sebesség	270 m/s
+Max. lőtávolság	150 m
+
+Thompson
+Műszaki adatok
+Űrméret	11,43 mm
+Lőszer	.45 ACP
+Tárkapacitás	20/30 lőszeres szekrénytár, 50/100 lőszeres csigatár
+Tömeg	4,9 kg
+Fegyver hossza	850 mm
+Csőhossz	270-300 mm
+Elméleti tűzgyorsaság	600-1500 lövés/perc
+Csőtorkolati sebesség	285 m/s
+Hatásos lőtávolság	50 m
+
+Walther WA 2000
+Műszaki adatok
+Tömeg	
+6,95 kg (15,3 font) üres (nincs hatály[2]
+7,91 kg (17,4 font) betöltve (hatókörrel)[2]
+Hosszúság	905 mm(35,6 hüvelyk)[2]
+Hordó hossza	650 mm(25,6 hüvelyk)[2]
+Patron	
+7,62×51mm NATO[2]
+.300 Winchester Magnum[2]
+7,5×55mm svájci[2]
+Akció	Gázüzemű,[2] forgó csavar
+Tűzsebesség	Félautomata[2]
+Hatékony tüzelési tartomány	700 m (766 yds)
+Adagolórendszer	6 kerek levehető doboz magazin. [2] Egy 10 körös magazin is készült, de soha nem használták és nem exportálták.
