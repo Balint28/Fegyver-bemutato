@@ -110,3 +110,15 @@ Akció	Gázüzemű,[2] forgó csavar
 Tűzsebesség	Félautomata[2]
 Hatékony tüzelési tartomány	700 m (766 yds)
 Adagolórendszer	6 kerek levehető doboz magazin. [2] Egy 10 körös magazin is készült, de soha nem használták és nem exportálták.
+
+M16 (gépkarabély)
+Műszaki adatok
+Űrméret	5,56 mm
+Lőszer	5,56 × 45 mm NATO, vagy .223 Remington (Ma már FMJ is)
+Tárkapacitás	20 vagy 30 db szekrénytárban
+Működési elv	Gázelvezetéses, forgózáras reteszeléssel
+Tömeg	2,97–3,53 kg
+Fegyver hossza	1006 mm
+Csőhossz	508 mm
+Elméleti tűzgyorsaság	750–900 lövés/perc
+Csőtorkolati sebesség	975–884 m/s
