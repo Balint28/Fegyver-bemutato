@@ -59,7 +59,7 @@ Háborús alkalmazás:
 
 
 M1917 revolver
- Mûszaki adatok
+Mûszaki adatok
  Típus	revolver
  Ûrméret	11,430 mm
  Lõszer	.45 ACP
@@ -125,89 +125,237 @@ Alkalmazás:
 Alkalmazás ideje   1949-napjainkig
 
 
-
 G11
 Mûszaki adatok
-Tömeg	
-3,65 kg (8,0 font) üres, 4,3 kg (9,5 font) 90 töltény (G11K3)
-Hosszúság	750 mm (30 hüvelyk)
-Hordó hossza	540 mm (21 hüvelyk) (a kamrát nem számítva, csavarásonként 155 mm)
-Patron	
-4.73×33mm-es tok nélküli lõszer (DM11): G11 K2, LMG11
-4,7 mm, 4,3 mm, 4,9 mm más G11 prototípusokhoz
-4,92x34mm[1]
-4.73×25mm tok nélküli: NBW
-Akció	Gázüzemû, forgó farfekvéses (G11 sorozathoz)
-Tûzsebesség	
-460 forduló/perc (teljes automatikus) [2]
-2100 forduló/perc (3 körös sorozat) [2]
-Lövedék kezdõsebessége	C. 930 m/s (3100 ft/s)
-Hatékony tüzelési tartomány	400 m
+ Típus	GépkarabélyFény	géppuska
+ Tömeg 3,65 kg (8,0 font) üres, 4,3 kg (9,5 font) 90 töltény (G11K3)
+ Hosszúság	750 mm (30 hüvelyk)
+ Hordó hossza	540 mm (21 hüvelyk) (a kamrát nem számítva, csavarásonként 155 mm)
+ Patron	
+ 4.73×33mm-es tok nélküli lõszer (DM11): G11 K2, LMG11
+ 4,7 mm, 4,3 mm, 4,9 mm más G11 prototípusokhoz
+ 4,92x34mm[1]
+ 4.73×25mm tok nélküli: NBW
+ Akció	Gázüzemû, forgó farfekvéses (G11 sorozathoz)
+ Tûzsebesség	
+ 460 forduló/perc (teljes automatikus) [2]
+ 2100 forduló/perc (3 körös sorozat) [2]
+ Lövedék kezdõsebessége	C. 930 m/s (3100 ft/s)
+ Hatékony tüzelési tartomány	400 m
+
+Információk:
+A Heckler & Koch G11 egy nem gyártmányú gépkarabély prototípus,
+amelyet az 1960-as évek végétõl az 1980-as évek végéig fejlesztett ki a Gesellschaft für Hülsenlose Gewehrsysteme
+(GSHG) (németül a Caseless Rifle Systems Szövetségéért), a Heckler & Koch (gépészeti és fegyvertervezés),
+a Dynamit Nobel (hajtóanyag-összetétel és lövedéktervezés) és a Hensoldt Wetzlar által vezetett vállalatok konglomerátuma.
+(célazonosító és optikai rendszerek). A puska a tok nélküli lõszerek használatáról ismert.
+Ez elsõsorban Nyugat-Németország projektje volt, bár a többi NATO-ország számára is fontos volt.
+Különösen a G11 verziói szerepeltek az egyesült államokbeli Advanced Combat Rifle programban.
+1990-ben a H&K befejezte a G11 fejlesztését, amelyet a Bundeswehr és más NATO-partnerek számára terveztek.
+Bár a fegyver technikai siker volt, a német újraegyesítés politikai változásai és a közbeszerzési szerzõdés hiánya miatt soha nem lépett be a teljes termelésbe.
+Csak 1000 darabot gyártottak, amelyek közül néhány a Bundeswehr kezébe került. Végül a német fegyveres erõk a G3-at a G36-ra cserélték.
+
+A fejlesztés 1967 körül kezdõdött, amikor a NATO elindította egy második szabványos kis kaliberû lõszer elfogadásának ötletét.
+Ezután három versenyzõt jelöltek: egy amerikait, egy másikat belga, végül pedig a német Heckler & Koch-ot.
+A NATO gyorsan elvesztette érdeklõdését az ügytelen lõszerek iránt, de a nyugatnémet kormány kitartott.
+1968 és 1969 között az akkori Nyugat-Németország kormánya megvalósíthatósági tanulmányt kezdett egy jövõbeli gépkarabélyról,
+és három szerzõdést ítéltek oda a Diehl, az IWKA Mauser és a Heckler & Koch (oberndorfi székhelyû) számára.
+A feladatmeghatározások (specifikációk) nagyon általánosak voltak, és jobb gyalogsági fegyvert követeltek, 
+amely jobb találati valószínûséggel rendelkezik, mint bármely akkor létezett, de teljesítette a FINABEL 
+(Franciaország, Olaszország, Hollandia, Allemagne, Belgium és Luxemburg után elnevezett) tartományát és tûzsebességét. 
+A tervezõk szabad kezet kaptak az alkalmazott módszerekhez, de a Heckler & Koch rájött, 
+hogy az egyetlen módja annak, hogy jelentõs javulást érjen el, az a megközelítés radikális megváltoztatása.
+
 
 SPAS-12
 Mûszaki adatok
-Tömeg	
-4,4 kg
-Hosszúság	
-1041 mm(41 hüvelyk) állomány meghosszabbítva
-820 mm-es (32,5 hüvelyk) készlet hajtogatott
-Hordó hossza	
-18",19-7/8",21-1/2",24"
-Patron	csak 12 nyomtávú 23/4 hüvelykes héj
-Akció	Szivattyú-akció/gázüzemeltetés
-Tûzsebesség	Félautomata vagy szivattyús mûködés
-Hatékony tüzelési tartomány	A felhasznált lõszertõl függ
-Adagolórendszer	Csõhosszabbítás 5+1, 6+1, 7+1 és 8+1 forduló, belsõ csõmagazin
+ Típus	Harci sörétes puska
+ Tömeg	4,4 kg
+ Hosszúság	
+ 1041 mm(41 hüvelyk) állomány meghosszabbítva
+ 820 mm-es (32,5 hüvelyk) készlet hajtogatott
+ Hordó hossza	
+ 18",19-7/8",21-1/2",24"
+ Patron	csak 12 nyomtávú 23/4 hüvelykes héj
+ Akció	Szivattyú-akció/gázüzemeltetés
+ Tûzsebesség	Félautomata vagy szivattyús mûködés
+ Hatékony tüzelési tartomány	A felhasznált lõszertõl függ
+ Adagolórendszer	Csõhosszabbítás 5+1, 6+1, 7+1 és 8+1 forduló, belsõ csõmagazin
+
+Információk:
+A Franchi SPAS-12 egy harci sörétes puska, amelyet az olasz Franchi lõfegyvergyártó cég gyártott 1979 és 2000 között.
+A SPAS-12 egy kétmódú sörétes puska, amely félautomata vagy szivattyú-akcióhoz állítható. 
+A SPAS-12-t világszerte, valamint a polgári piacon értékesítették katonai és rendõrségi felhasználóknak, és számos filmben, tv-mûsorban és videojátékban szerepelt.
+A SPAS-12 megjelenése és rendeltetése eredetileg a "katonai" harci sörétes puska megnevezéséhez vezetett. 
+A SPAS-12-t az alapoktól kezdve robusztus katonai sörétes puskaként tervezték, és a Special Purpose Automatic Shotgun-nak nevezték el. 
+1990-ben Franchi átnevezte a puskát Sporting Purpose Automatic Shotgun-ra, 
+amely lehetõvé tette az Egyesült Államokba történõ folyamatos értékesítést korlátozott magazinkapacitású, rögzített készletû modellként 1994-ig. 
+Az Egyesült Államok szövetségi támadási fegyvertilalmát követõen az SPAS-12 sörétes puskák egyesült államokbeli behozatalát leállították. 
+2004 szeptemberében a tilalom lejárt, de Franchi 2000-ben leállította a SPAS-12 gyártását, hogy a SPAS-15 modell gyártására összpontosítson. 
+A SPAS-12 gyári kiskereskedelmi ára az utolsó évben átlagosan 1500 USD volt az Egyesült Államokon kívüli végsõ értékesítéséhez a nem korlátozott országokba.
+
+A SPAS-12-t úgy tervezték, hogy elsõsorban félautomata üzemmódban mûködjön, 
+a szivattyú-akció módot alacsony nyomású lõszerek, például könnygáz lõszerek, 
+például könnygáz töltények vagy kevésbé halálos babzsákok megbízható tüzelésére használják. 
+Az égetési üzemmódot úgy váltják át, hogy lenyomják az elülsõ markolat alatti gombot, és elõre vagy hátra csúsztatják, 
+amíg a helyére nem kattan, lehetõvé téve a forgó hüvely számára a két gázcsatlakozó kinyitását vagy bezárását.
+A SPAS-12 magazinzáró funkcióval rendelkezik, amely megakadályozza, hogy a magazin új kört adjon ki, 
+amikor az akció ciklusra kerül. Ez lehetõvé teszi a kezelõ számára, hogy egy másik típusú kört töltsön be a kamrába anélkül, 
+hogy elõször kirakná a kamrás kört, a másodikat pedig, amelyet egyébként késõbb felszabadítanának a magazinból.
+Az összecsukható állomány változatok egyedülálló jellemzõje a fenékhorog. Az állomány meghosszabbításával a horog benyomható, 
+és 90 fokkal balra vagy jobbra fordítható, hogy illeszkedjen a felhasználó alkarja alá. Ez lehetõvé teszi, 
+hogy a puskát egy kézzel lehessen elsütni; pl. abseiling/rappelling közben, vagy vezetés közben a jármû ablakából. A horog teljesen felszabadulhat a buttplate-bõl 180 fokos fordulattal.
+
+A SPAS-12 modellek két biztonsági felszereléssel rendelkeznek:  
+karstílus vagy nyomógombos stílusbiztonság, és "gyors munkahelyi biztonság". A kari széfeket Franchi visszahívta, 
+és az 1990-es évek elején az importõr American Arms váltotta fel.[a] Kétféle nyomógombos széf létezik. 
+A legkorábbi verzió felszabadítaná a kalapácsot a széfen akár 1/4in-ig. utazás, amikor a ravaszt lenyomták; 
+ez a mûvelet zárolását okozná, amely megköveteli a felhasználótól, hogy a csavarszerelvényt hátulra rögzítse, 
+hogy alaphelyzetbe állítsa a kalapácsot, majd töltse be újra a kamrát. A késõbbi verzió egy detent és megmunkált lyukat telepített az eseményindítócsoport keretébe, 
+hogy megakadályozza a mûveletzárat; a detent megakadályozná, hogy a kalapács bekapcsoljon, amikor a ravasz le van nyomva, 
+és megakadályozná a mûveleti zár bekövetkezését. A gyors munkabiztonság, amely a kioldóvédõ bal oldalán van, leválasztja a ravaszt, amikor 
+csökkentett módba helyezi. A gyors munkabiztonságot a ravasz ujjával lehet kikapcsolni, amikor készen áll a tüzelésre, 
+és verseny- vagy taktikai használatra szánják. Egy harmadik biztonsági típus, a pisztoly markolat biztonsága hasonló a késõbb kifejlesztett SPAS-15-höz, 
+ismert, hogy a Franchi fejlesztette ki a SPAS-12-höz, de a pisztoly markolat biztonságát nem kínálták eladásra a nagyközönség számára.
+Az 1990-es években rövid ideig egy B-square-es optikai síntartó állt rendelkezésre utángyártott kiegészítõként.
+A SPAS-12 hordóját külsõ menetesre fûzték, hogy különféle mellékleteket fogadjanak el. A hordó henger unatkozik, és a normál lövési töltést körülbelül 900 mm-re terjeszti 40 méteren.
+A SPAS 12-höz négy különbözõ magazinkiterjesztési csövet gyártanak:
+
+1. Az 5-shell-t a 18"-os hordóhoz tervezték.
+2. A 6-shell-t a szabványos 21,5"-os Sportcél modell korlátozására tervezték.
+3. A 7-shell-t a 19 7/8"-os hordóhoz tervezték.
+4. A 8-shell-t a 21.5 Special purpose modellhez tervezték.
+5. Számos eredeti és utópiacos fojtószelep-típus létezik a SPAS-12 számára. [2] A Franciaország által használt 44 mm-es gránátvetõt 150 méteres hatótávolságú robbanógránátokhoz használták. [3] A függõlegesen vagy vízszintesen lõtt lövéseket terjesztõ gyári lövésirányító eredetileg a korábbi SPAS-12-es modellhez tartozott, sok ismert reprodukciós diverter van. [4]
+
 
 MP5
 Mûszaki adatok
-Ûrméret	9 mm
-Lõszer	9×19 mm Parabellum
-Tárkapacitás	15 vagy 30 db
-Mûködési elv	görgõkkel késleltetett tömegzár
-Tömeg	2.54 (5.6 lb) kg
-Fegyver hossza	260 (10.2 in) mm
-Csõhossz	225 mm
-Elméleti tûzgyorsaság	800 lövés/perc
-Csõtorkolati sebesség	270 m/s
-Max. lõtávolság	150 m
+ Típus	géppisztoly
+ Ûrméret	9 mm
+ Lõszer	9×19 mm Parabellum
+ Tárkapacitás	15 vagy 30 db
+ Mûködési elv	görgõkkel késleltetett tömegzár
+ Tömeg	2.54 (5.6 lb) kg
+ Fegyver hossza	260 (10.2 in) mm
+ Csõhossz	225 mm
+ Elméleti tûzgyorsaság	800 lövés/perc
+ Csõtorkolati sebesség	270 m/s
+ Max. lõtávolság	150 m
+
+Információk:
+A Heckler & Koch MP5 az 1960-as években a Német Szövetségi Köztársaságban kifejlesztett 9 mm-es géppisztoly-család. 
+A fegyvergyár a G3-as gépkarabély sikerén felbuzdulva fejlesztett ki egy kézifegyvercsaládot, 
+mely négy fajta lõfegyverbõl állt (mindegyiknek a G3-as volt az alapja). A világ számos országában (Magyarországon is) alkalmazzák.
+A típuscsaládok: - H&K MP5, - H&K MP5K, - H&K MP5SD, - H&K MP5PDW, H&K MP5A1, H&K MP5A2, H&K MP5A3, H&K MP5A4
+
+Az alaptípuson kívül még két változatot különböztethetünk meg. 
+A géppisztolynak létezik egy egészen speciális változata, az SD. 
+Ez egy fixen beépített hangtompítóval felszerelt típus. Mellsõ ágya teljesen különbözik a standard változatokétól. 
+Ehhez a fegyverhez nem szükséges subsonic lõszert alkalmazni, a normál lõszer torkolati dörejét is kiválóan csillapítja, kb. 
+úgy, mintha egy .22 kaliberû kispuska hangját hallanánk. 
+E hatásfok eléréséhez különleges megoldásra volt szükség. Az SD változat csöve jóval rövidebb (146 mm), mint a standardé, kb. 
+a hangtompító feléig ér. A csõ a töltényûrtõl kezdve sugárirányú furatokkal van ellátva, 
+amelyeken a lõporgázok egy része már a lövés pillanatában kiáramlik. Ahol a csõ véget ér, a hangtompító még mindig jó darabon a 
+lõporgázok útjában áll, így a kilépõ lövedék után a dörej szinte elenyészõ. Ennek viszont az az ára, 
+hogy a fegyvernek kisebb a lõtávolsága, és a lövedék energiája is.
+
 
 Thompson
 Mûszaki adatok
-Ûrméret	11,43 mm
-Lõszer	.45 ACP
-Tárkapacitás	20/30 lõszeres szekrénytár, 50/100 lõszeres csigatár
-Tömeg	4,9 kg
-Fegyver hossza	850 mm
-Csõhossz	270-300 mm
-Elméleti tûzgyorsaság	600-1500 lövés/perc
-Csõtorkolati sebesség	285 m/s
-Hatásos lõtávolság	50 m
+ Típus	géppisztoly
+ Ûrméret	11,43 mm
+ Lõszer	.45 ACP
+ Tárkapacitás	20/30 lõszeres szekrénytár, 50/100 lõszeres csigatár
+ Tömeg	4,9 kg
+ Fegyver hossza	850 mm
+ Csõhossz	270-300 mm
+ Elméleti tûzgyorsaság	600-1500 lövés/perc
+ Csõtorkolati sebesség	285 m/s
+ Hatásos lõtávolság	50 m
+
+Információk:
+A Thompson amerikai géppisztolyt John T. Thompson fejlesztette ki 1919-ben, hírnévre pedig az alkoholtilalom idején tett szert. 
+Ebben az idõben gyakori látvány volt a médiában a rendõrök és a bûnözõk kezében egyaránt. 
+A Thompsont sokféle becenévvel illették: „Tommy Gun”, „Trench Broom”, „Trench Sweeper”, „Chicago Typewriter”, „Chicago Piano”, „Chicago Style”, „Chicago Organ Grinder”, és „The Chopper”.
+A Thompson közkedvelt volt mind a katonák, rendõrök, bûnözõk és a civilek körében is jó ergonómiája, 
+kompaktsága, nagy .45 ACP lõszere, megbízhatósága és magas tûzgyorsasága miatt. 
+Azóta a gyûjtõk körében is fontos darab történelmi jelentõsége miatt.
+
+A Thompson-géppisztolyt John T. Thompson tábornok fejlesztette ki,
+aki eredetileg egy automata puskát (öntöltõ puskát) álmodott meg, 
+hogy leválthassa vele a hadrendben lévõ forgó-tolózáras puskákat. 
+Míg a módját kereste annak, hogy biztonságosan mûködtethessen egy fegyvert a 
+gázüzemû mechanizmus komplexitása nélkül, Thompson összefutott egy szabadalommal, melyet John Bell Blish nyújtott be 1915-ben. 
+Thompson Thomas F. Ryan személyében talált magának anyagi támogatót, 
+majd 1916-ban kezdte fejleszteni auto puskáját az Auto-Ordnance Company-nál. Munkáját elsõsorban Kentuckyban lévõ Newportban végezte. 
+A fõtervezõk Theodore H. Eickhoff, Oscar V. Payne és George E. Goll voltak. 
+Az 1917-es év végére rátaláltak a Blish-elv korlátaira: zárt závárzat helyett inkább egyfajta késleltetett hátrasiklással mûködött. 
+Az amerikai hadseregben rendszeresített lõszertípusok közül csak a .45 ACP-t találták alkalmasnak. Ezután Thompson egy egyemberes, 
+kézben tartható géppuskát álmodott meg a .45 ACP kaliberben, amelyet, mint egy lövészárok-seprût lehetne használni a folyamatban lévõ lövészárok-hadviselés során. 
+Payne tervezte meg magát a fegyvert, és annak szekrény- és csigatárait. A projektet ezután az „Annihilator I” névvel illették, majd 1918-ra a legtöbb tervezési problémát megoldották. 
+Habár a háború véget ért, mielõtt az elsõ prototípusokat Európába szállíthatták volna.
+
 
 Walther WA 2000
-Mûszaki adatok
-Tömeg	
-6,95 kg (15,3 font) üres (nincs hatály[2]
-7,91 kg (17,4 font) betöltve (hatókörrel)[2]
-Hosszúság	905 mm(35,6 hüvelyk)[2]
-Hordó hossza	650 mm(25,6 hüvelyk)[2]
-Patron	
-7,62×51mm NATO[2]
-.300 Winchester Magnum[2]
-7,5×55mm svájci[2]
+Mûszaki adatok	
+ Típus	Félautomata bullpup mesterlövész puska
+ Tömeg 6,95 kg (15,3 font) üres (nincs hatály
+ 7,91 kg (17,4 font) betöltve (hatókörrel)
+ Hosszúság	905 mm(35,6 hüvelyk)
+ Hordó hossza	650 mm(25,6 hüvelyk)
+ Patron	
+ 7,62×51mm NATO[2]
+ .300 Winchester Magnum
+ 7,5×55mm svájci[2]
 Akció	Gázüzemû,[2] forgó csavar
 Tûzsebesség	Félautomata[2]
 Hatékony tüzelési tartomány	700 m (766 yds)
 Adagolórendszer	6 kerek levehetõ doboz magazin. [2] Egy 10 körös magazin is készült, de soha nem használták és nem exportálták.
 
+Információk:
+A Walther WA 2000 egy félautomata bullpup mesterlövész puska, 
+amelyet a Carl Walther GmbH Sportwaffen cég gyártott 1982 és 1988 között. 
+Három különbözõ kaliberben állították elõ. [2] A puska gyártása korlátozott volt, 
+és rövid idõn belül leállították, mert túl drága volt ahhoz, hogy széles körû értékesítést érjen el, 
+és nem volt elég erõs ahhoz, hogy katonai használatra mesterlövész puskaként használják.
+Csak 176 darabot építettek a magas költségek miatt, így ez az egyik legritkább és legkeresettebb gyártott lõfegyver, amelyet valaha készítettek.
+
+A WA 2000-et az 1970-es évek végén és az 1980-as évek elején tervezték, válaszul az 1972-es müncheni nyári olimpiai játékokra. 
+A bullpup kialakítást azért választották, mert lehetõvé tette egy szabványos hosszúságú hordó használatát, 
+míg a teljes hossza rövidebb lenne, mint egy hagyományos puska. A WA 2000 gyors levehetõ távcsõtartóval rendelkezett, súlya 0,96 kg volt. 
+A puskának nem voltak vasai. A leggyakrabban használt optikai látás a Schmidt & Bender 2,5–10× teleszkópos látvány volt. 
+Hatókör nélkül a puska rakodott tömege 6,95 kg( 15,3 font) és terhelt súlya 7,35 kg ( 16,2 font). 
+
+A .300 Winchester Magnum kereket választották elsõdleges kalibernek a nagy hatótávolságú pontossága és minden tartományban való konzisztenciája miatt. 
+Az egész puskát a hordó köré tervezték. A WA 2000 egy zárt csavarból tüzel, és hét reteszelõ füllel ellátott csavart használ. 
+Vagy egylépcsõs ravaszral vagy kétlépcsõs ravaszral rendelkezik, 1,2–1,4 kg-os ravaszhúzással.  
+A puska 6 töltényû egycsomagos dobozos magazinokat használ, amelyek betöltésekor 0,4 kg súlyúak.
+
+
 M16 (gépkarabély)
 Mûszaki adatok
-Ûrméret	5,56 mm
-Lõszer	5,56 × 45 mm NATO, vagy .223 Remington (Ma már FMJ is)
-Tárkapacitás	20 vagy 30 db szekrénytárban
-Mûködési elv	Gázelvezetéses, forgózáras reteszeléssel
-Tömeg	2,97–3,53 kg
-Fegyver hossza	1006 mm
-Csõhossz	508 mm
-Elméleti tûzgyorsaság	750–900 lövés/perc
-Csõtorkolati sebesség	975–884 m/s
+ Típus	Gépkarabély
+ Ûrméret	5,56 mm
+ Lõszer	5,56 × 45 mm NATO, vagy .223 Remington (Ma már FMJ is)
+ Tárkapacitás	20 vagy 30 db szekrénytárban
+ Mûködési elv	Gázelvezetéses, forgózáras reteszeléssel
+ Tömeg	2,97–3,53 kg
+ Fegyver hossza	1006 mm
+ Csõhossz	508 mm
+ Elméleti tûzgyorsaság	750–900 lövés/perc
+ Csõtorkolati sebesség	975–884 m/s
+
+Információk:
+Az M16 puska (hivatalosan rifle, Caliber 5.56 mm, M16) egy katonai puskacsalád, amelyet az ArmaLite AR-15 puskából adaptáltak az Egyesült Államok hadserege számára. 
+Az eredeti M16 puska egy 5,56×45 mm-es automata puska volt, 20 töltényes tárral.
+1964-ben az M16-os belépett az amerikai katonai szolgálatba, és a következõ évben a vietnami háború alatt dzsungel hadviselési mûveletekre vezényelték.
+1969-ben az M16A1 váltotta fel az M14 puskát, hogy az amerikai hadsereg szabványos szolgálati puskájává váljon.
+ Az M16A1 módosításai közé tartozik egy csavarasszisztens, krómozott furat és egy 30 töltényes tár.
+
+1983-ban az amerikai tengerészgyalogság átvette az M16A2 puskát, és az amerikai hadsereg 1986-ban fogadta el. 
+Az M16A2 a továbbfejlesztett 5,56×45 mm-es (M855/SS109) patront tüzeli, és újabb állítható hátsó látással, tokeltér-elvezetõvel, 
+nehéz hordóval, továbbfejlesztett kézvédõvel, pisztoly markolattal és fenékkészlettel, valamint félautomata és háromfordulós tûzválasztóval rendelkezik.
+Az 1997 júliusában elfogadott M16A4 az M16 sorozat negyedik generációja. Kivehetõ hordozófogantyúval és Picatinny sínnel van felszerelve az optika és más kiegészítõ eszközök felszereléséhez. 
+
+Az M16-ot a világ más fegyveres erõi is széles körben elfogadták. Az M16-osok teljes világszintû gyártása mintegy 8 millió, így ez az 5,56 mm-es kaliberû, legtöbbet gyártott lõfegyver.
+Az amerikai hadsereg nagyrészt lecserélte az M16-ost a frontvonal harci egységeiben egy rövidebb és könnyebb változatra, az M4 karabélyra. 
