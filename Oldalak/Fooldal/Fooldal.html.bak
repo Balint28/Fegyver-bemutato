@@ -2,7 +2,7 @@
 	<html>
 		<head>
 			<title>Teszt</title>
-			<link rel="stylesheet" href="Fooldal.css">
+			<link rel="stylesheet" href="css.css">
 		</head>
 		<body>
 			<table style="border: blac solid; width: 1346px; height: 210px;">
