@@ -1,9 +1,8 @@
 .cim{
-	text-align:center
-}
-.leiras{
-	
+	float:left;
 }
 .kep{
-	border:solid black
+	width:500px;
+	float:right;
+	border:solid black;
 }
