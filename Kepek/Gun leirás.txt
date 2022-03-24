@@ -1,124 +1,213 @@
 M1911
-MÅ±szaki adatok
-Å°rmÃ©ret	11,430 mm
-LÅ‘szer	.45 ACP
-TÃ¡rkapacitÃ¡s	7 db .45 ACP tÃ¶ltÃ©ny
-MÅ±kÃ¶dÃ©si elv	egyszeres feszÃ­tÃ©sÅ±, fÃ©lautomata, egylÃ¶vetÅ±
-TÃ¶meg	1,130 kg
-Fegyver hossza	219 mm
-CsÅ‘hossz	128 mm
-CsÅ‘torkolati sebessÃ©g	253 m/s
-Pontos lÅ‘tÃ¡volsÃ¡g	62 m
+Mûszaki adatok
+ Típus	Félautomata hadipisztoly
+ Ûrméret	11,430 mm
+ Lõszer	.45 ACP
+ Tárkapacitás	7 db .45 ACP töltény
+ Mûködési elv	egyszeres feszítésû, félautomata, egylövetû
+ Tömeg	1,130 kg
+ Fegyver hossza	219 mm
+ Csõhossz	128 mm
+ Csõtorkolati sebesség	253 m/s
+ Pontos lõtávolság	62 m
+ 
+Információk:
+Az M1911 egy félautomata, .45-ös kaliberû pisztoly, ami 1911-tõl 1986-ig volt az amerikai hadseregnél rendszeresítve.
+Elõször a Fülöp-szigetek és Amerikai Egyesült Államok között dúló háborúban alkalmazták,
+aztán az elsõ világháborúban, a második világháborúban, a koreai háborúban és a vietnámi háborúban.
+A lõfegyver hivatalos megnevezése az M1911 variánsnak 1940-ben Automatic Pistol,
+Caliber .45, M1911, az M1911A1 változatnak (1924) pedig Automatic Pistol, Caliber .45, M1911A1 volt.
+A vietnámi háború idején a neve Pistol, Caliber .45, Automatic, M1911A1-ra változott.
+
+Az 1900-as évek legelején az amerikai hadsereg úgy döntött,
+hogy a rendszeresített .38-as kaliberû pisztolyok teljesítménye nem elegendõ és ezért egy hatásosabb lõszerre,
+illetve pisztolyra van szüksége. Ezért 1906-ban pályázatot írtak ki egy új, .45-ös kaliberû hadipisztolyra.
+A pályázatot végül a John M. Browning által tervezett fegyver nyerte meg,
+amit végül kisebb módosítások után 1911-ben állítottak hadrendbe, innen jön az M1911 típusjelzés.
+A fegyver tulajdonságairól mi sem árulkodik jobban,
+minthogy több mint 70 éven át volt az amerikai fegyveres csapatoknál rendszeresített hadipisztoly.
+
+Az Egyesült Államok összesen 2,7 millió M1911 és M1911A1 pisztolyt gyártott amíg rendszeresített fegyver volt.
+Ezt 1986 októberében a Beretta M9 leváltotta, de népszerûsége miatt nem teljesen cserélõdött le.
+Néhány egységnél még mindig használják modern verzióját, így még található a Haditengerészetnél,
+a Tengerészgyalogságnál és a Különleges Erõknél.
+
+Alkalmazás:
+Alkalmazás ideje   1912–1985
+Használó ország
+ Amerikai Egyesült Államok
+ Argentína
+ Brazília
+ Egyesült Királyság
+ Dél-Korea
+ Dél-Vietnám
+ Fülöp-szigetek
+ Görögország
+ Kanada
+ Norvégia
+ Tajvan Kínai Köztársaság
+ Thaiföld
+ Törökország
+ Thaiföld
+
+Háborús alkalmazás:
+ elsõ világháború
+ második kínai–japán háború
+ második világháború
+ koreai háború
+ vietnámi háború
+
 
 M1917 revolver
-MÅ±szaki adatok
-Å°rmÃ©ret	11,430 mm
-LÅ‘szer	.45 ACP
-TÃ¡rkapacitÃ¡s	6
-MÅ±kÃ¶dÃ©si elv	KifordÃ­thatÃ³ dobos, fÃ©lhold alakÃº acÃ©ltÃ¡rcsÃ¡val. PasszÃ­v Ã¼tÅ‘szeges biztosÃ­tÃ¡s
-TÃ¶meg	1132 g kg
-Fegyver hossza	273 mm mm
-CsÅ‘hossz	140 mm mm
-CsÅ‘torkolati sebessÃ©g	231,7 m/s
-IrÃ¡nyzÃ©k tÃ­pusa	nyÃ­lt, penge a csÅ‘ elejÃ©n
+ Mûszaki adatok
+ Típus	revolver
+ Ûrméret	11,430 mm
+ Lõszer	.45 ACP
+ Tárkapacitás	6
+ Mûködési elv	Kifordítható dobos, félhold alakú acéltárcsával. Passzív ütõszeges biztosítás
+ Tömeg	1132 g kg
+ Fegyver hossza	273 mm mm
+ Csõhossz	140 mm mm
+ Csõtorkolati sebesség	231,7 m/s
+ Irányzék típusa    nyílt, penge a csõ elején
 
-AKâ€“47
-MÅ±szaki adatok
-Å°rmÃ©ret	7,62 mm
-LÅ‘szer	7,62Ã—39 mm
-TÃ¡rkapacitÃ¡s	30 tÃ¶ltÃ©nyes szekrÃ©nytÃ¡r
-MÅ±kÃ¶dÃ©si elv	gÃ¡zelvÃ©teles, hosszÃº gÃ¡zdugattyÃº-hÃ¡trasiklÃ¡sos, forgÃ³zÃ¡ras reteszelÃ©sÅ±
-TÃ¶meg	3,6 kg tÃ¡r nÃ©lkÃ¼l
-tÃ¶ltÃ¶tt tÃ¡rral 4,1 kg
-Fegyver hossza	870 mm
-CsÅ‘hossz	415 mm
-ElmÃ©leti tÅ±zgyorsasÃ¡g	600 lÃ¶vÃ©s/perc
-Gyakorlati tÅ±zgyorsasÃ¡g	40 (egyes lÃ¶vÃ©snÃ©l) - 100 (sorozatlÃ¶vÃ©snÃ©l) lÃ¶vÃ©s/perc
-CsÅ‘torkolati sebessÃ©g	715 m/s
+Információk:
+A Colt Model 1917 (Colt M1917) amerikai gyártmányú hatlövetû revolver.
+Az elsõ világháború alatt az amerikai hadsereg hiányában volt a rendszeresített Colt M1911 öntöltõ pisztolynak,
+így felkérte a Coltot (és a Smith & Wessont),
+hogy készítsenek katonai revolvert a .45 ACP öntöltõpisztoly lõszerre.
+Ez a fegyver nem más, mint a Colt, New Service típusának rövidebb-dobos változata.
+A perem nélküli hüvelyû .45 ACP lõszert befogadó,
+félhold alakú acéltárcsával (half-moon clip) lehet betölteni és üríteni.
+A fegyvert a második világháború alatt újra elkezdték gyártani.
+
+Alkalmazás:
+Alkalmazás ideje   1917–1954
+Használó ország
+ Brazília
+ USA
+
+Háborús alkalmazás:
+ Búr háborúk,
+ Elsõ világháború,
+ Második világháború,
+ Koreai háború,
+ Vietnámi háború
+
+
+AK–47
+Mûszaki adatok
+ Típus	gépkarabély
+ Ûrméret	7,62 mm
+ Lõszer	7,62×39 mm
+ Tárkapacitás	30 töltényes szekrénytár
+ Mûködési elv	gázelvételes, hosszú gázdugattyú-hátrasiklásos, forgózáras reteszelésû
+ Tömeg	3,6 kg tár nélkül
+ töltött tárral 4,1 kg
+ Fegyver hossza	870 mm
+ Csõhossz	415 mm
+ Elméleti tûzgyorsaság	600 lövés/perc
+ Gyakorlati tûzgyorsaság	40 (egyes lövésnél) - 100 (sorozatlövésnél) lövés/perc
+ Csõtorkolati sebesség	715 m/s
+
+Információk:
+Az AK–47, hivatalosan Avtomat Kalashnyikova
+egy gázüzemû, 7.62×39mm kaliberû gépkarabély,
+melyet Mihail Tyimofejevics Kalasnyikov kézifegyver-tervezõ tervezett,
+ezért gyakran Kalasnyikov-gépkarabélynak nevezik. Ez a Kalashnikov (vagy "AK") gépkarabélycsalád elsõ darabja.
+Az AK-47-est és annak változatait a mai napig számos országban gyártják és alkalmazzák.
+Minden idõk egyik, ha nem legsikeresebb gépkarabélytípusa.
+
+A 47-es szám a fegyver tervezésének befejezési évére utal.
+A tervezés 1945-ben kezdõdött el. A kettõ évvel késõbb hivatalos hadseregi tesztekre mutatták be, 1947-ben.
+
+Alkalmazás:
+Alkalmazás ideje   1949-napjainkig
+
 
 
 G11
-MÅ±szaki adatok
-TÃ¶meg	
-3,65 kg (8,0 font) Ã¼res, 4,3 kg (9,5 font) 90 tÃ¶ltÃ©ny (G11K3)
-HosszÃºsÃ¡g	750 mm (30 hÃ¼velyk)
-HordÃ³ hossza	540 mm (21 hÃ¼velyk) (a kamrÃ¡t nem szÃ¡mÃ­tva, csavarÃ¡sonkÃ©nt 155 mm)
+Mûszaki adatok
+Tömeg	
+3,65 kg (8,0 font) üres, 4,3 kg (9,5 font) 90 töltény (G11K3)
+Hosszúság	750 mm (30 hüvelyk)
+Hordó hossza	540 mm (21 hüvelyk) (a kamrát nem számítva, csavarásonként 155 mm)
 Patron	
-4.73Ã—33mm-es tok nÃ©lkÃ¼li lÅ‘szer (DM11): G11 K2, LMG11
-4,7 mm, 4,3 mm, 4,9 mm mÃ¡s G11 prototÃ­pusokhoz
+4.73×33mm-es tok nélküli lõszer (DM11): G11 K2, LMG11
+4,7 mm, 4,3 mm, 4,9 mm más G11 prototípusokhoz
 4,92x34mm[1]
-4.73Ã—25mm tok nÃ©lkÃ¼li: NBW
-AkciÃ³	GÃ¡zÃ¼zemÅ±, forgÃ³ farfekvÃ©ses (G11 sorozathoz)
-TÅ±zsebessÃ©g	
-460 fordulÃ³/perc (teljes automatikus) [2]
-2100 fordulÃ³/perc (3 kÃ¶rÃ¶s sorozat) [2]
-LÃ¶vedÃ©k kezdÅ‘sebessÃ©ge	C. 930 m/s (3100 ft/s)
-HatÃ©kony tÃ¼zelÃ©si tartomÃ¡ny	400 m
+4.73×25mm tok nélküli: NBW
+Akció	Gázüzemû, forgó farfekvéses (G11 sorozathoz)
+Tûzsebesség	
+460 forduló/perc (teljes automatikus) [2]
+2100 forduló/perc (3 körös sorozat) [2]
+Lövedék kezdõsebessége	C. 930 m/s (3100 ft/s)
+Hatékony tüzelési tartomány	400 m
 
 SPAS-12
-MÅ±szaki adatok
-TÃ¶meg	
+Mûszaki adatok
+Tömeg	
 4,4 kg
-HosszÃºsÃ¡g	
-1041 mm(41 hÃ¼velyk) Ã¡llomÃ¡ny meghosszabbÃ­tva
-820 mm-es (32,5 hÃ¼velyk) kÃ©szlet hajtogatott
-HordÃ³ hossza	
+Hosszúság	
+1041 mm(41 hüvelyk) állomány meghosszabbítva
+820 mm-es (32,5 hüvelyk) készlet hajtogatott
+Hordó hossza	
 18",19-7/8",21-1/2",24"
-Patron	csak 12 nyomtÃ¡vÃº 23â„4 hÃ¼velykes hÃ©j
-AkciÃ³	SzivattyÃº-akciÃ³/gÃ¡zÃ¼zemeltetÃ©s
-TÅ±zsebessÃ©g	FÃ©lautomata vagy szivattyÃºs mÅ±kÃ¶dÃ©s
-HatÃ©kony tÃ¼zelÃ©si tartomÃ¡ny	A felhasznÃ¡lt lÅ‘szertÅ‘l fÃ¼gg
-AdagolÃ³rendszer	CsÅ‘hosszabbÃ­tÃ¡s 5+1, 6+1, 7+1 Ã©s 8+1 fordulÃ³, belsÅ‘ csÅ‘magazin
+Patron	csak 12 nyomtávú 23/4 hüvelykes héj
+Akció	Szivattyú-akció/gázüzemeltetés
+Tûzsebesség	Félautomata vagy szivattyús mûködés
+Hatékony tüzelési tartomány	A felhasznált lõszertõl függ
+Adagolórendszer	Csõhosszabbítás 5+1, 6+1, 7+1 és 8+1 forduló, belsõ csõmagazin
 
 MP5
-MÅ±szaki adatok
-Å°rmÃ©ret	9 mm
-LÅ‘szer	9Ã—19 mm Parabellum
-TÃ¡rkapacitÃ¡s	15 vagy 30 db
-MÅ±kÃ¶dÃ©si elv	gÃ¶rgÅ‘kkel kÃ©sleltetett tÃ¶megzÃ¡r
-TÃ¶meg	2.54 (5.6 lb) kg
+Mûszaki adatok
+Ûrméret	9 mm
+Lõszer	9×19 mm Parabellum
+Tárkapacitás	15 vagy 30 db
+Mûködési elv	görgõkkel késleltetett tömegzár
+Tömeg	2.54 (5.6 lb) kg
 Fegyver hossza	260 (10.2 in) mm
-CsÅ‘hossz	225 mm
-ElmÃ©leti tÅ±zgyorsasÃ¡g	800 lÃ¶vÃ©s/perc
-CsÅ‘torkolati sebessÃ©g	270 m/s
-Max. lÅ‘tÃ¡volsÃ¡g	150 m
+Csõhossz	225 mm
+Elméleti tûzgyorsaság	800 lövés/perc
+Csõtorkolati sebesség	270 m/s
+Max. lõtávolság	150 m
 
 Thompson
-MÅ±szaki adatok
-Å°rmÃ©ret	11,43 mm
-LÅ‘szer	.45 ACP
-TÃ¡rkapacitÃ¡s	20/30 lÅ‘szeres szekrÃ©nytÃ¡r, 50/100 lÅ‘szeres csigatÃ¡r
-TÃ¶meg	4,9 kg
+Mûszaki adatok
+Ûrméret	11,43 mm
+Lõszer	.45 ACP
+Tárkapacitás	20/30 lõszeres szekrénytár, 50/100 lõszeres csigatár
+Tömeg	4,9 kg
 Fegyver hossza	850 mm
-CsÅ‘hossz	270-300 mm
-ElmÃ©leti tÅ±zgyorsasÃ¡g	600-1500 lÃ¶vÃ©s/perc
-CsÅ‘torkolati sebessÃ©g	285 m/s
-HatÃ¡sos lÅ‘tÃ¡volsÃ¡g	50 m
+Csõhossz	270-300 mm
+Elméleti tûzgyorsaság	600-1500 lövés/perc
+Csõtorkolati sebesség	285 m/s
+Hatásos lõtávolság	50 m
 
 Walther WA 2000
-MÅ±szaki adatok
-TÃ¶meg	
-6,95 kg (15,3 font) Ã¼res (nincs hatÃ¡ly[2]
-7,91 kg (17,4 font) betÃ¶ltve (hatÃ³kÃ¶rrel)[2]
-HosszÃºsÃ¡g	905 mm(35,6 hÃ¼velyk)[2]
-HordÃ³ hossza	650 mm(25,6 hÃ¼velyk)[2]
+Mûszaki adatok
+Tömeg	
+6,95 kg (15,3 font) üres (nincs hatály[2]
+7,91 kg (17,4 font) betöltve (hatókörrel)[2]
+Hosszúság	905 mm(35,6 hüvelyk)[2]
+Hordó hossza	650 mm(25,6 hüvelyk)[2]
 Patron	
-7,62Ã—51mm NATO[2]
+7,62×51mm NATO[2]
 .300 Winchester Magnum[2]
-7,5Ã—55mm svÃ¡jci[2]
-AkciÃ³	GÃ¡zÃ¼zemÅ±,[2] forgÃ³ csavar
-TÅ±zsebessÃ©g	FÃ©lautomata[2]
-HatÃ©kony tÃ¼zelÃ©si tartomÃ¡ny	700 m (766 yds)
-AdagolÃ³rendszer	6 kerek levehetÅ‘ doboz magazin. [2] Egy 10 kÃ¶rÃ¶s magazin is kÃ©szÃ¼lt, de soha nem hasznÃ¡ltÃ¡k Ã©s nem exportÃ¡ltÃ¡k.
+7,5×55mm svájci[2]
+Akció	Gázüzemû,[2] forgó csavar
+Tûzsebesség	Félautomata[2]
+Hatékony tüzelési tartomány	700 m (766 yds)
+Adagolórendszer	6 kerek levehetõ doboz magazin. [2] Egy 10 körös magazin is készült, de soha nem használták és nem exportálták.
 
-M16 (gÃ©pkarabÃ©ly)
-MÅ±szaki adatok
-Å°rmÃ©ret	5,56 mm
-LÅ‘szer	5,56 Ã— 45 mm NATO, vagy .223 Remington (Ma mÃ¡r FMJ is)
-TÃ¡rkapacitÃ¡s	20 vagy 30 db szekrÃ©nytÃ¡rban
-MÅ±kÃ¶dÃ©si elv	GÃ¡zelvezetÃ©ses, forgÃ³zÃ¡ras reteszelÃ©ssel
-TÃ¶meg	2,97â€“3,53 kg
+M16 (gépkarabély)
+Mûszaki adatok
+Ûrméret	5,56 mm
+Lõszer	5,56 × 45 mm NATO, vagy .223 Remington (Ma már FMJ is)
+Tárkapacitás	20 vagy 30 db szekrénytárban
+Mûködési elv	Gázelvezetéses, forgózáras reteszeléssel
+Tömeg	2,97–3,53 kg
 Fegyver hossza	1006 mm
-CsÅ‘hossz	508 mm
-ElmÃ©leti tÅ±zgyorsasÃ¡g	750â€“900 lÃ¶vÃ©s/perc
-CsÅ‘torkolati sebessÃ©g	975â€“884 m/s
+Csõhossz	508 mm
+Elméleti tûzgyorsaság	750–900 lövés/perc
+Csõtorkolati sebesség	975–884 m/s
