@@ -1,39 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="AK-47.js"></script>
-<link rel="stylesheet" href="AK-47.css">
+<script src="SPAS12.js"></script>
+<link rel="stylesheet" href="SPAS12.css">
 </head>
 <body>
-<h1 class="cim">SPAS12</h1>
+<h1 class="cim">SPAS 12</h1>
 <br>
 <img class="kep" src="../../Kepek/300px-SPAS-12_stock_folded.jpg">
 <h4>Műszaki adatok:</h4>
 <p>
 Típus: arci sörétes puska<br>
- Tömeg:	4,4 kg<br>
- Hosszúság<br>
- 1041 mm(41 hüvelyk) állomány meghosszabbítva<br>
- 820 mm-es (32,5 hüvelyk) készlet hajtogatott<br>
- Hordó hossza<br>
- 18",19-7/8",21-1/2",24"<br>
- Patron	csak 12 nyomtávú 23/4 hüvelykes héj<br>
- Akció	Szivattyú-akció/gázüzemeltetés<br>
- Tűzsebesség	Félautomata vagy szivattyús működés<br>
- Hatékony tüzelési tartomány	A felhasznált lőszertől függ<br>
- Adagolórendszer	Csőhosszabbítás 5+1, 6+1, 7+1 és 8+1 forduló, belső csőmagazin<br>
+Tömeg:	4,4 kg<br>
+Hosszúság: 1041 mm(41 hüvelyk) állomány meghosszabbítva,820 mm-es (32,5 hüvelyk) készlet hajtogatott<br>
+Hordó hossza: 18",19-7/8",21-1/2",24"<br>
+Patron csak 12 nyomtávú 23/4 hüvelykes héj<br>
+Akció Szivattyú-akció/gázüzemeltetés<br>
+Tűzsebesség: Félautomata vagy szivattyús működés<br>
+Hatékony tüzelési tartomány: A felhasznált lőszertől függ<br>
+Adagolórendszer: Csőhosszabbítás 5+1, 6+1, 7+1 és 8+1 forduló, belső csőmagazin<br>
 </p>
 <h4>Információk:</h4>
 <p>A Franchi SPAS-12 egy harci sörétes puska, amelyet az olasz Franchi lőfegyvergyártó cég gyártott 1979 és 2000 között.
 A SPAS-12 egy kétmódú sörétes puska, amely félautomata vagy szivattyú-akcióhoz állítható. 
-A SPAS-12-t világszerte, valamint a polgári piacon értékesítették katonai és rendőrségi felhasználóknak, és számos filmben, tv-műsorban és videojátékban szerepelt.
-A SPAS-12 megjelenése és rendeltetése eredetileg a "katonai" harci sörétes puska megnevezéséhez vezetett. 
+A SPAS-12-t világszerte, valamint a polgári piacon értékesítették katonai és rendőrségi felhasználóknak, és számos filmben, tv-műsorban
+és videojátékban szerepelt.A SPAS-12 megjelenése és rendeltetése eredetileg a "katonai" harci sörétes puska megnevezéséhez vezetett. 
 A SPAS-12-t az alapoktól kezdve robusztus katonai sörétes puskaként tervezték, és a Special Purpose Automatic Shotgun-nak nevezték el. 
 1990-ben Franchi átnevezte a puskát Sporting Purpose Automatic Shotgun-ra, 
-amely lehetővé tette az Egyesült Államokba történő folyamatos értékesítést korlátozott magazinkapacitású, rögzített készletű modellként 1994-ig. 
-Az Egyesült Államok szövetségi támadási fegyvertilalmát követően az SPAS-12 sörétes puskák egyesült államokbeli behozatalát leállították. 
-2004 szeptemberében a tilalom lejárt, de Franchi 2000-ben leállította a SPAS-12 gyártását, hogy a SPAS-15 modell gyártására összpontosítson. 
-A SPAS-12 gyári kiskereskedelmi ára az utolsó évben átlagosan 1500 USD volt az Egyesült Államokon kívüli végső értékesítéséhez a nem korlátozott országokba.
+amely lehetővé tette az Egyesült Államokba történő folyamatos értékesítést korlátozott magazinkapacitású, rögzített készletű modellként
+1994-ig. Az Egyesült Államok szövetségi támadási fegyvertilalmát követően az SPAS-12 sörétes puskák egyesült államokbeli behozatalát
+leállították.2004 szeptemberében a tilalom lejárt, de Franchi 2000-ben leállította a SPAS-12 gyártását, hogy a SPAS-15 modell gyártására
+összpontosítson. A SPAS-12 gyári kiskereskedelmi ára az utolsó évben átlagosan 1500 USD volt az Egyesült Államokon kívüli végső
+értékesítéséhez a nem korlátozott országokba.
 
 A SPAS-12-t úgy tervezték, hogy elsősorban félautomata üzemmódban működjön, 
 a szivattyú-akció módot alacsony nyomású lőszerek, például könnygáz lőszerek, 
@@ -45,30 +43,35 @@ amikor az akció ciklusra kerül. Ez lehetővé teszi a kezelő számára, hogy 
 hogy először kirakná a kamrás kört, a másodikat pedig, amelyet egyébként később felszabadítanának a magazinból.
 Az összecsukható állomány változatok egyedülálló jellemzője a fenékhorog. Az állomány meghosszabbításával a horog benyomható, 
 és 90 fokkal balra vagy jobbra fordítható, hogy illeszkedjen a felhasználó alkarja alá. Ez lehetővé teszi, 
-hogy a puskát egy kézzel lehessen elsütni; pl. abseiling/rappelling közben, vagy vezetés közben a jármű ablakából. A horog teljesen felszabadulhat a buttplate-ből 180 fokos fordulattal.
+hogy a puskát egy kézzel lehessen elsütni; pl. abseiling/rappelling közben, vagy vezetés közben a jármű ablakából. 
+A horog teljesen felszabadulhat a buttplate-ből 180 fokos fordulattal.
 
 A SPAS-12 modellek két biztonsági felszereléssel rendelkeznek:  
 karstílus vagy nyomógombos stílusbiztonság, és "gyors munkahelyi biztonság". A kari széfeket Franchi visszahívta, 
-és az 1990-es évek elején az importőr American Arms váltotta fel.[a] Kétféle nyomógombos széf létezik. 
+és az 1990-es évek elején az importőr American Arms váltotta fel.Kétféle nyomógombos széf létezik. 
 A legkorábbi verzió felszabadítaná a kalapácsot a széfen akár 1/4in-ig. utazás, amikor a ravaszt lenyomták; 
 ez a művelet zárolását okozná, amely megköveteli a felhasználótól, hogy a csavarszerelvényt hátulra rögzítse, 
-hogy alaphelyzetbe állítsa a kalapácsot, majd töltse be újra a kamrát. A későbbi verzió egy detent és megmunkált lyukat telepített az eseményindítócsoport keretébe, 
+hogy alaphelyzetbe állítsa a kalapácsot, majd töltse be újra a kamrát. A későbbi verzió egy detent és megmunkált
+lyukat telepített az eseményindítócsoport keretébe, 
 hogy megakadályozza a műveletzárat; a detent megakadályozná, hogy a kalapács bekapcsoljon, amikor a ravasz le van nyomva, 
-és megakadályozná a műveleti zár bekövetkezését. A gyors munkabiztonság, amely a kioldóvédő bal oldalán van, leválasztja a ravaszt, amikor 
+és megakadályozná a műveleti zár bekövetkezését. A gyors munkabiztonság, amely a kioldóvédő bal oldalán van,
+leválasztja a ravaszt, amikor 
 csökkentett módba helyezi. A gyors munkabiztonságot a ravasz ujjával lehet kikapcsolni, amikor készen áll a tüzelésre, 
-és verseny- vagy taktikai használatra szánják. Egy harmadik biztonsági típus, a pisztoly markolat biztonsága hasonló a később kifejlesztett SPAS-15-höz, 
+és verseny- vagy taktikai használatra szánják. Egy harmadik biztonsági típus, a pisztoly markolat biztonsága hasonló a
+később kifejlesztett SPAS-15-höz, 
 ismert, hogy a Franchi fejlesztette ki a SPAS-12-höz, de a pisztoly markolat biztonságát nem kínálták eladásra a nagyközönség számára.
 Az 1990-es években rövid ideig egy B-square-es optikai síntartó állt rendelkezésre utángyártott kiegészítőként.
-A SPAS-12 hordóját külső menetesre fűzték, hogy különféle mellékleteket fogadjanak el. A hordó henger unatkozik, és a normál lövési töltést körülbelül 900 mm-re terjeszti 40 méteren.
+A SPAS-12 hordóját külső menetesre fűzték, hogy különféle mellékleteket fogadjanak el. A hordó henger unatkozik, és a
+normál lövési töltést körülbelül 900 mm-re terjeszti 40 méteren.
 A SPAS 12-höz négy különböző magazinkiterjesztési csövet gyártanak:
 
 1. Az 5-shell-t a 18"-os hordóhoz tervezték.
 2. A 6-shell-t a szabványos 21,5"-os Sportcél modell korlátozására tervezték.
 3. A 7-shell-t a 19 7/8"-os hordóhoz tervezték.
 4. A 8-shell-t a 21.5 Special purpose modellhez tervezték.
-5. Számos eredeti és utópiacos fojtószelep-típus létezik a SPAS-12 számára. [2] A Franciaország által használt 44 mm-es gránátvetőt 150</p>
-méteres hatótávolságú robbanógránátokhoz használták. [3] A függőlegesen vagy vízszintesen lőtt lövéseket terjesztő gyári lövésirányító eredetileg a
- korábbi SPAS-12-es modellhez tartozott, sok ismert reprodukciós diverter van. [4]
+5. Számos eredeti és utópiacos fojtószelep-típus létezik a SPAS-12 számára.A Franciaország által használt 44 mm-es gránátvetőt 150
+méteres hatótávolságú robbanógránátokhoz használták. [3] A függőlegesen vagy vízszintesen lőtt lövéseket terjesztő gyári lövésirányító 
+eredetileg akorábbi SPAS-12-es modellhez tartozott, sok ismert reprodukciós diverter van.</p>
 </body>
 </html>
 
