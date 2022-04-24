@@ -1,1 +1,8 @@
-a
+.cim{
+	
+}
+.kep{
+	width:500px;
+	float:right;
+	border:solid black;
+}

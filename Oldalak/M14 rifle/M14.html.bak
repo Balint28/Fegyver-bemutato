@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>AK-47</title>
-<script src="AK-47.js"></script>
-<link rel="stylesheet" href="AK-47.css">
+<script src="M14.js"></script>
+<link rel="stylesheet" href="M14.css">
 </head>
-<body class="body">
+<body>
 <h1 class="cim">AK-47</h1>
 <br>
-<img class="kep" src="../../Kepek/Ak 47.jpg">
+<img class="kep" src="../../Kepek/M14_Stand-off_Munitions_Disruptor_(SMUD)_(7414626342).jpg">
 <h4>Műszaki adatok:</h4>
 <p>
 Űrméret: 7,62 mm<br>

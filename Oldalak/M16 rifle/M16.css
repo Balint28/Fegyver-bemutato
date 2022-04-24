@@ -1,1 +1,8 @@
-a
+.kep{
+	width:500px;
+	float:right;
+	border:solid black;
+}
+.body{
+	background-color:#303030;color:White;
+}

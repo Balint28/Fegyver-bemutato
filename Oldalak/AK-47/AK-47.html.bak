@@ -4,11 +4,11 @@
 <script src="AK-47.js"></script>
 <link rel="stylesheet" href="AK-47.css">
 </head>
-<body>
+<body class="body">
 <h1 class="cim">AK-47</h1>
 <br>
 <img class="kep" src="../../Kepek/Ak 47.jpg">
-<h4 class="cim">Műszaki adatok:</h4>
+<h4>Műszaki adatok:</h4>
 <p>
 Űrméret: 7,62 mm<br>
 Lőszer: 7,62×39 mm<br>

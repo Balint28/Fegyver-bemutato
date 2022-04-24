@@ -4,7 +4,7 @@
 <script src="MP5.js"></script>
 <link rel="stylesheet" href="MP5.css">
 </head>
-<body>
+<body class="body">
 <h1 class="cim">MP5</h1>
 <br>
 <img class="kep" src="../../Kepek/Mp5.jpg">
@@ -22,15 +22,21 @@
  Csőtorkolati sebesség: 270 m/s<br>
  Max. lőtávolság: 150 m</p>
 <h4>Információk:</h4>
-<p>Az AK–47, hivatalosan Avtomat Kalashnyikova
-egy gázüzemű, 7.62×39mm kaliberű gépkarabély,
-melyet Mihail Tyimofejevics Kalasnyikov kézifegyver-tervező tervezett,
-ezért gyakran Kalasnyikov-gépkarabélynak nevezik. Ez a Kalashnikov (vagy "AK") gépkarabélycsalád első darabja.
-Az AK-47-est és annak változatait a mai napig számos országban gyártják és alkalmazzák.
-Minden idők egyik, ha nem legsikeresebb gépkarabélytípusa.
-A 47-es szám a fegyver tervezésének befejezési évére utal.
-A tervezés 1945-ben kezdődött el. A kettő évvel később hivatalos hadseregi tesztekre mutatták be, 1947-ben.<br>
-Alkalmazás ideje: 1949-napjainkig</p>
+<p>A Heckler & Koch MP5 az 1960-as években a Német Szövetségi Köztársaságban kifejlesztett 9 mm-es géppisztoly-család. 
+A fegyvergyár a G3-as gépkarabély sikerén felbuzdulva fejlesztett ki egy kézifegyvercsaládot, 
+mely négy fajta lőfegyverből állt (mindegyiknek a G3-as volt az alapja). A világ számos országában (Magyarországon is) alkalmazzák.
+A típuscsaládok: - H&K MP5, - H&K MP5K, - H&K MP5SD, - H&K MP5PDW, H&K MP5A1, H&K MP5A2, H&K MP5A3, H&K MP5A4
+
+Az alaptípuson kívül még két változatot különböztethetünk meg. 
+A géppisztolynak létezik egy egészen speciális változata, az SD. 
+Ez egy fixen beépített hangtompítóval felszerelt típus. Mellső ágya teljesen különbözik a standard változatokétól. 
+Ehhez a fegyverhez nem szükséges subsonic lőszert alkalmazni, a normál lőszer torkolati dörejét is kiválóan csillapítja, kb. 
+úgy, mintha egy .22 kaliberű kispuska hangját hallanánk. 
+E hatásfok eléréséhez különleges megoldásra volt szükség. Az SD változat csöve jóval rövidebb (146 mm), mint a standardé, kb. 
+a hangtompító feléig ér. A cső a töltényűrtől kezdve sugárirányú furatokkal van ellátva, 
+amelyeken a lőporgázok egy része már a lövés pillanatában kiáramlik. Ahol a cső véget ér, a hangtompító még mindig jó darabon a 
+lőporgázok útjában áll, így a kilépő lövedék után a dörej szinte elenyésző. Ennek viszont az az ára, 
+hogy a fegyvernek kisebb a lőtávolsága, és a lövedék energiája is.</p>
 </body>
 </html>
 

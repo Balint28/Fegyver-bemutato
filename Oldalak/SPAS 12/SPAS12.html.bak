@@ -4,7 +4,7 @@
 <script src="SPAS12.js"></script>
 <link rel="stylesheet" href="SPAS12.css">
 </head>
-<body>
+<body class="body">
 <h1 class="cim">SPAS 12</h1>
 <br>
 <img class="kep" src="../../Kepek/300px-SPAS-12_stock_folded.jpg">
@@ -70,7 +70,7 @@ A SPAS 12-höz négy különböző magazinkiterjesztési csövet gyártanak:
 3. A 7-shell-t a 19 7/8"-os hordóhoz tervezték.
 4. A 8-shell-t a 21.5 Special purpose modellhez tervezték.
 5. Számos eredeti és utópiacos fojtószelep-típus létezik a SPAS-12 számára.A Franciaország által használt 44 mm-es gránátvetőt 150
-méteres hatótávolságú robbanógránátokhoz használták. [3] A függőlegesen vagy vízszintesen lőtt lövéseket terjesztő gyári lövésirányító 
+méteres hatótávolságú robbanógránátokhoz használták.A függőlegesen vagy vízszintesen lőtt lövéseket terjesztő gyári lövésirányító 
 eredetileg akorábbi SPAS-12-es modellhez tartozott, sok ismert reprodukciós diverter van.</p>
 </body>
 </html>

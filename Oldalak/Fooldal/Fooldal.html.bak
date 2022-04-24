@@ -1,51 +1,98 @@
-<DOCTYPE HTML>
-	<html>
-		<head>
-			<title>Teszt</title>
-			<link rel="stylesheet" href="Fooldal.css">
-		</head>
-		<body>
-			<table style="border: blac solid; width: 1346px; height: 210px;">
-				<tr>                                   
-					<td>
-						<p style="margin-left: 800px;">Az AK–47 egy gázüzemű, 7.62×39mm kaliberű gépkarabély, melyet Mihail Tyimofejevics Kalasnyikov kézifegyver-tervező tervezett, ezért gyakran Kalasnyikov-gépkarabélynak nevezik.</p>
-					<img src="../../Kepek/Ak 47.jpg">
-				</tr>
-			</table>
-			<table style="border: black solid 2px; width: 1346px;">
-				<tr>
-					<td>
-						
-					</td>
-				</tr>
-			</table>
-			<table style="border: blac solid; width: 1346px; height: 210px;">
-				<tr>                                   
-					<td>
-						<p style="margin-left: 800px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum libero at massa convallis ultrices eget id felis. Ut nec urna id lorem mattis elementum. Aenean maximus sit amet tellus eu feugiat. Donec ornare, tortor eu convallis ullamcorper, dolor massa finibus justo, ac feugiat urna elit lacinia odio. Maecenas molestie hendrerit imperdiet. Suspendisse tincidunt finibus libero ut dignissim. Pellentesque dictum varius pretium. In a nibh non ante pretium semper. Nam nisi magna, tristique non eros nec, congue molestie massa. Vestibulum egestas porta augue ac porttitor. Quisque varius vulputate massa eu luctus. Aliquam sit amet maximus enim. Donec ac convallis enim.</p>
-					<img src="https://lh3.googleusercontent.com/eJutYs75tXeRESoigVO4_sGZkGUFgGbDqTaWdtJeWsX6O5rCiy8WJe5Z8Jgho-RTBjX9OA=s170">
-				</tr>
-			</table>
-			<table style="border: black solid 2px; width: 1346px;">
-				<tr>
-					<td>
-						
-					</td>
-				</tr>
-			</table>
-			<table style="border: blac solid; width: 1346px; height: 210px;">
-				<tr>                                   
-					<td>
-						<p style="margin-left: 800px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum libero at massa convallis ultrices eget id felis. Ut nec urna id lorem mattis elementum. Aenean maximus sit amet tellus eu feugiat. Donec ornare, tortor eu convallis ullamcorper, dolor massa finibus justo, ac feugiat urna elit lacinia odio. Maecenas molestie hendrerit imperdiet. Suspendisse tincidunt finibus libero ut dignissim. Pellentesque dictum varius pretium. In a nibh non ante pretium semper. Nam nisi magna, tristique non eros nec, congue molestie massa. Vestibulum egestas porta augue ac porttitor. Quisque varius vulputate massa eu luctus. Aliquam sit amet maximus enim. Donec ac convallis enim.</p>
-					<img src="https://lh3.googleusercontent.com/eJutYs75tXeRESoigVO4_sGZkGUFgGbDqTaWdtJeWsX6O5rCiy8WJe5Z8Jgho-RTBjX9OA=s170">
-				</tr>
-			</table>
-			<table>
-				<tr>
-					</td>
-						<h3 style="margin-left: 1150px;">1</h3>
-					</td>
-				</tr>
-			</table>
-		</body>
-	</html>
+<!doctype html>
+<html>
+<head>
+<title>DarkWeb</title>
+<script src="Fooldal.js"></script>
+<link rel="stylesheet" href="Fooldal.css">
+</head>
+<body class="body">
+<h1 class="cim">Fegyver bemutató</h1>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/AK 47.jpg">
+</div>
+<p>Az AK–47 egy gázüzemű, 7.62×39mm kaliberű gépkarabély, melyet Mihail
+Tyimofejevics Kalasnyikov kézifegyver-tervező tervezett, ezért gyakran Kalasnyikov-gépkarabélynak nevezik.</p>
+<div class="link">
+<a href="../G11 H&K/G11.html">Tudj meg róla többet</a>
+</div>
+</div>
+<br>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/300px-HK_G11_with_bayonet.jpg">
+</div>
+<p>Heckler & Koch G11 egy nem sorozatgyártású gépkarabély prototípus, amelyet az 1960-as évek
+végétől az 1980-as évek végéig fejlesztett ki a Gesellschaft für Hülsenlose Gewehrsysteme.</p>
+<div class="link">
+<a href="../G11 H&K/G11.html">Tudj meg róla többet</a>
+</div>
+</div>
+<br>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/250px-Usarmy_m16a2.jpg">
+</div>
+<p>Az M16-os gépkarabélyt Eugene Stoner tervezte az Armalite számára (így eredeti típusjelzése AR–15),
+de nagy tömegű gyártását már a Colt végezte 1959-től, 2011 óta viszont Malajziában gyártják tovább,
+mert a Colt eladta a gyártási és az ázsiai importjogokat.</p>
+<div class="link">
+<a href="../M16 rifle/M16.html">Tudj meg róla többet</a>
+</div>
+</div>
+<br>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/M1911A1.png">
+</div>
+<p>Az M1911 egy félautomata, .45-ös kaliberű pisztoly, ami 1911-től 1986-ig volt az amerikai hadseregnél 
+rendszeresítve.</p>
+<div class="link">
+<a href="../M1911/M1911.html">Tudj meg róla többet</a>
+</div>
+</div>
+<br>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/250px-Smith-et-Wesson-1917-p1030108.jpg">
+</div>
+<p>A Colt Model 1917 (Colt M1917) amerikai gyártmányú hatlövetű revolver.</p>
+<div class="link">
+<a href="../M1917 revolver/M1917.html">Tudj meg róla többet</a>
+</div>
+</div>
+<br>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/Mp5.jpg">
+</div>
+<p>Az MP5 az 1960-as években a Német Szövetségi Köztársaságban kifejlesztett 9 mm-es géppisztoly-család
+a világ számos országában (Magyarországon is) alkalmazzák.</p>
+<div class="link">
+<a href="../MP5/MP5.html">Tudj meg róla többet</a>
+</div>
+</div>
+<br>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/300px-SPAS-12_stock_folded.jpg">
+</div>
+<p>A Franchi SPAS-12 egy harci sörétes puska, amelyet az olasz Franchi lőfegyvergyártó cég gyártott 1979 és 
+2000 között. A SPAS-12 egy kétmódú sörétes puska, amely félautomata vagy szivattyú-akciós működéshez állítható.</p>
+<div class="link">
+<a href="../SPAS 12/SPAS12.html">Tudj meg róla többet</a>
+</div>
+</div>
+<br>
+<div class="div">
+<div>
+<img class="kep" src="../../Kepek/WA2000.png">
+</div>
+<p>A Walther WA 2000 egy félautomata bullpup mesterlövész puska, amelyet a Carl Walther GmbH Sportwaffen cég 
+gyártott 1982 és 1988 között.</p>
+<div class="link">
+<a href="../WA2000 Walther/WA2000.html">Tudj meg róla többet</a>
+</div>
+</div>
+</body>
+</html>

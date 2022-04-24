@@ -1,5 +1,17 @@
-img{
-	margin-left:100px;
-	margin-top: -150px;
-	width: 300px;
+.cim{
+	text-align:center
+}
+.body{
+	background-color:#303030;color:White;
+}
+.div{
+	margin:auto;width:90%;
+	border:black solid
+}
+.link{
+	text-align:right;
+}
+.kep{
+	width:150px;
+	float:left;
 }
